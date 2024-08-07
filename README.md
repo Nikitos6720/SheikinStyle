@@ -1,2 +1,0 @@
-# SheikinStyle
- SheikinStyleManagementSystem
