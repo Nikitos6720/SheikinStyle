@@ -12,30 +12,57 @@ System must be used for creating and supporting orders.
 
 ### Business requirements
 
+1. System must can store data of clients' contacts' information and their history
+2. Administrator must can see seller's working history
+3. Director must can see employee's working history
+4. Any employee must can throw client into blacklist with blocking any working processes
+5. If client was thrown into the blacklist by seller or administrator, director must can see that and can deny or approve process
+6. System must be divided by permissions for users
+
 ### Functional requierements
 
-#### For administrator
+#### All employees must can
 
-1. Work with clients:
-    1. Create client
-    2. Edit client
-    3. Remove client
-    4. Search client
-2. Work with products:
-    1. sad
-    2. asd
-    3. asfsdf
-3. asfsdf:
-    1. 23iorj
-    2. ;ekrmg
-    3. slkdgm
+1. With clients:
+    * Create
+    ----
+2. With products:
+    * Create
+    * Sell
 
-#### For seller
+#### Administrators must can
+
+1. With clients:
+    * Edit
+    * Remove
+    ----
+2. With products:
+    * Edit
+    * Remove
+    ----
+3. With employees:
+    * Create
+    * Edit
+    * Remove
+    * Search
+
+#### Director must can
+
+1. With employees:
+    * Сhange role
 
 ### Non-Functional requierements
+
+1. All data must be defended
+2. For working with system computer must be connected with internet
+3. Minimal OS - Windows 10
 
 ## UML-Diagrams for understanding system
 
 ### Use Case Diagram
 
+If you want to see the diagram, follow the [link|https://drive.google.com/file/d/1c9xKUa2ro98d_peI88OHFSls7ytaNNCj/view?usp=sharing|link] please.
+
 ### Class Diagram
+
+If you want to see the diagram, follow the [link|https://drive.google.com/file/d/1lvVfzWlhxqW8xKBQ54CCJujteGVM9j0T/view?usp=sharing|link] please.
