@@ -1,7 +1,5 @@
 # Sheikin Style Management System
 
-----
-
 System, created for Sheikin Style shop.
 
 ## Main usability
@@ -59,10 +57,4 @@ System must be used for creating and supporting orders.
 
 ## UML-Diagrams for understanding system
 
-### Use Case Diagram
-
-If you want to see the diagram, follow the [link](https://drive.google.com/file/d/1c9xKUa2ro98d_peI88OHFSls7ytaNNCj/view?usp=sharing) please.
-
-### Class Diagram
-
-If you want to see the diagram, follow the [link](https://drive.google.com/file/d/1lvVfzWlhxqW8xKBQ54CCJujteGVM9j0T/view?usp=sharing) please.
+If you want to see the diagrams, follow the [link](https://drive.google.com/file/d/1lvVfzWlhxqW8xKBQ54CCJujteGVM9j0T/view?usp=sharing) please.
